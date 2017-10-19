@@ -64,7 +64,8 @@ gulp.task('alltask', function() {
         './app/assets/css/raw/elements.css',
         './app/assets/css/raw/layout.css',
         './app/assets/css/raw/components.css',
-        './app/assets/css/raw/wordpress.css'
+        './app/assets/css/raw/wordpress.css',
+        './app/assets/css/styles.css'
     ])
     // .pipe(watch('./app/assets/frontend/css/*.css'))
         .pipe(concat('compressed.css'))
