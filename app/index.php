@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true">
-    <title> Index :: Quantum </title>
+    <title> SPACETIME PROTOCOL :: </title>
     <meta name="description" content=" add description  ... ">
     <!-- /// Favicons ////////  -->
     <link rel="shortcut icon" href="favicon.png">
@@ -72,8 +72,7 @@
 <!--                    <br><br> Click <span><i class="fa fa-music"></i></span> to <em>un</em>mute &-->
 <!--                    <span>here</span> to see another vid (<em>0</em> of <em>0</em>). Check all of them! They're quite-->
 <!--                    awesome. ;]-->
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusantium amet
-                    asperiores laborum non porro, quidem voluptas? Assumenda, impedit nisi!
+                   SpaceTime protocol is a new way organising the physical world as we know it, powered by Ethereum with open standard, it enables the creation of a new world by fusing the physical world with smart softwares that can be used to create consensus driven states and countries or  streamline everyday life scenarios like supply-chain and more . 
 
                 </div>
             </div>
@@ -118,10 +117,12 @@
             controls: 0,
             disablekb: 1,
             enablejsapi: 0,
-            iv_load_policy: 3
+            iv_load_policy: 3,
+            loop:1,
+            playlist: '4PKuESL9TBc'
         };
     var vid = [
-            {'videoId': '4PKuESL9TBc', 'startSeconds': 0, 'endSeconds': 690, 'suggestedQuality': 'hd720'},
+            {'videoId': '4PKuESL9TBc', 'startSeconds': 0, 'endSeconds': 690, 'suggestedQuality': 'hd1080'},
 
         ],
         randomVid = Math.floor(Math.random() * vid.length),
@@ -146,14 +147,8 @@
             $('#tv').addClass('active');
             $('.hi em:nth-of-type(2)').html(currVid + 1);
         } else if (e.data === 2) {
-            $('#tv').removeClass('active');
-            if (currVid === vid.length - 1) {
-                currVid = 0;
-            } else {
-                currVid++;
-            }
-            tv.loadVideoById(vid[currVid]);
-            tv.seekTo(vid[currVid].startSeconds);
+            tv.loadVideoById(vid[0]);
+
         }
     }
 
@@ -189,6 +184,8 @@
         $('.hi em:nth-of-type(2)').html('~');
         tv.pauseVideo();
     });
+
+
 
 </script>
 

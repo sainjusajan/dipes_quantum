@@ -8,15 +8,13 @@
 
                 <div class="widget widget_text">
 
-                    <h4 class="widget-title">Quantum</h4>
+                    <h4 class="widget-title">SPACETIME PROTOCOL</h4>
 
                     <div class="textwidget">
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat sem, blandit quis nisl quis,
-                            faucibus condimentum lectus.</p>
+                        <p> </p>
 
-                        <p>Vestibulum interdum cursus odio vitae tempor. Ut elit dolor, aliquet eu lacinia non, vulputate
-                            ut mi. Curabitur suscipit turpis quis finibus consectetur vel dapibus arcu tempor nulla.</p>
+                        <p> </p>
 
                     </div><!-- end .textwidget -->
 
@@ -27,23 +25,23 @@
 
                 <div class="widget ewf_widget_contact_info">
 
-                    <h4 class="widget-title">Our Office</h4>
+                    <h4 class="widget-title"> MAIN OFFICE</h4>
 
-                    <p><em>Nulla lobortis consectetur volutpat congue  mauris in libero nec mi mollis.</em></p>
+                    <p><em> </em></p>
 
                     <ul>
                         <li>
-                            96 Lee Avenue <br>
-                            Camden, NJ 08102
+                            ZUG <br>
+                            SWITZERLAND
                         </li>
                         <li>
-                            856-404-7507
+                           
                         </li>
                         <li>
-                            <a href="mailto:#">office@quantum.com</a>
+                            <a href="mailto:#">OFFICE@SPACETIME.NETWORK</a>
                         </li>
                         <li>
-                            <a href="#">www.quantum.com</a>
+                            <a href="#">WWW.SPACETIME.NETWORK</a>
                         </li>
                     </ul>
 
@@ -54,9 +52,9 @@
 
                 <div class="widget ewf_widget_flickr">
 
-                    <h4 class="widget-title"><span>Flickr</span></h4>
+                    <h4 class="widget-title"><span>TWITTER </span></h4>
 
-                    <div class="flickr-feed">
+                    <div class="TWITTER-FEED">
                         <script src="http://www.flickr.com/badge_code_v2.gne?count=6&amp;display=latest&amp;size=s&amp;layout=x&amp;source=user_set&amp;set=72157650151141680"></script>
                     </div><!-- end .flickr-feed -->
 
@@ -85,8 +83,8 @@
                             <img src="assets/images/logo-footer.png" alt="">
                         </p>
 
-                        96 Lee Avenue  / Camden, NJ 08102 <br>
-                        <a href="#">www.quantum.com</a>
+                        SWIZERLAND <br>
+                        <a href="#">WWW.SPACETIME.NETWORK</a>
 
                     </div><!-- end .textwidget -->
 
@@ -112,7 +110,7 @@
                     <div class="textwidget">
 
                         <p class="text-center">
-                            <small>&copy; 2015 Quantum Template. All rights reserved.</small>
+                            <small>&copy; 2017, SPACETIME PROTOCOL</small>
                         </p>
 
                     </div><!-- end .textwidget -->

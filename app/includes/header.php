@@ -7,7 +7,7 @@
                 <!-- // Logo // -->
                 <div id="logo">
                     <a href="index.html">
-                        <img src="assets/images/logo.png" alt="website logo">
+                        <img src="assets/images/logo.png" alt="website logo" style="margin-top:16px;">
                     </a>
                 </div>
 
@@ -42,14 +42,11 @@
 
                         </li>
 
-                        <li><a href="">team</a></li>
-                        <li><a href="">blog</a></li>
-                        <li><a href="">white pape</a></li>
-                        <li><a href="">tokens</a></li>
-                        <li><a href="">Ico</a></li>
-
-
-
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Whitepaper</a></li>
+                        <li><a href="#">Tokens</a></li>
+                        <li><a href="#">ICO</a></li>
 
                     </ul>
                 </nav>
@@ -61,3 +58,4 @@
     <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 </div><!-- end #header -->
+

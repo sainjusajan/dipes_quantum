@@ -54,8 +54,7 @@
 .ytwala {
   height: 100vh;
   width: 100%;
-  position: relative;
-  margin-bottom: 100px; }
+  position: relative; }
 
 .ytwala-overlay {
   position: absolute;

@@ -1,88 +1,5 @@
-<section id="bxwala">
-    <div class="container">
-        <div class="row">
-            <div class="span6">
-
-                <div class="images-slider-2">
-
-                    <ul class="slides">
-                        <li>
-                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
-                        </li>
-                        <li>
-                            <img src="content/index/slider-2/555x360-2.jpg" alt="">
-                        </li>
-                        <li>
-                            <img src="content/index/slider-2/555x360-3.jpg" alt="">
-                        </li>
-                        <li>
-                            <img src="content/index/slider-2/555x360-4.jpg" alt="">
-                        </li>
-                        <li>
-                            <img src="content/index/slider-2/555x360-5.jpg" alt="">
-                        </li>
-                        <li>
-                            <img src="content/index/slider-2/555x360-6.jpg" alt="">
-                        </li>
-                    </ul>
-
-                    <div id="images-slider-2-pager">
-
-                        <a data-slide-index="0" href="#">
-                            <img src="content/index/slider-2/65x65-1.jpg" alt="">
-                        </a>
-                        <a data-slide-index="1" href="#">
-                            <img src="content/index/slider-2/65x65-2.jpg" alt="">
-                        </a>
-                        <a data-slide-index="2" href="#">
-                            <img src="content/index/slider-2/65x65-3.jpg" alt="">
-                        </a>
-                        <a data-slide-index="3" href="#">
-                            <img src="content/index/slider-2/65x65-4.jpg" alt="">
-                        </a>
-                        <a data-slide-index="4" href="#">
-                            <img src="content/index/slider-2/65x65-5.jpg" alt="">
-                        </a>
-                        <a data-slide-index="5" href="#">
-                            <img src="content/index/slider-2/65x65-6.jpg" alt="">
-                        </a>
-
-                    </div><!-- end #images-slider-2-pager -->
-
-                </div><!-- end .images-slider-2 -->
-
-            </div><!-- end .span6 -->
-            <div class="span6">
-
-                <div class="headline">
-
-                    <h3>Our company profile</h3>
-
-                    <h6>Lorem ipsum dolor sit amet</h6>
-
-                </div><!-- end .headline -->
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere arcu quis justo consequat, eu
-                    mollis nisi rhoncus. Aenean tincidunt turpis sit amet dolor ultricies, nec tempus enim aliquam. Vestibulum
-                    euismod lorem at magna suscipit, ac fringilla magna cursus.</p>
-
-                <p>Quisque ullamcorper neque ac eros semper blandit. Ut in congue odio, et maximus ante. Nulla blandit urna
-                    a convallis rhoncus. Duis erat eros, porttitor et orci ac, facilisis dignissim ipsum. Sed at urna justo. Duis
-                    vestibulum lacus non felis rhoncus iaculis. Sed mollis augue faucibus congue vestibulum. Mauris urna est,
-                    suscipit in dolor nec, rutrum vestibulum nisi. Sed turpis nulla, cursus at vestibulum malesuada, lobortis
-                    et urna. </p>
-
-                <a class="btn" href="#">Find out more</a>
-
-            </div><!-- end .span6 -->
-        </div><!-- end .row -->
-    </div><!-- end .container -->
-
-</section>
-
-
 <section id="3blockswala">
-    <div class="fullwidth-section" id="bg-7">
+    <div class="fullwidth-section" id="bg-7" style="margin-top:0px;">
 
         <div class="fullwidth-section-content">
 
@@ -92,16 +9,37 @@
 
                         <div class="icon-box-5">
 
-                            <i class="ifc-fantasy"></i>
+                            <i class="fa fa-crop fa-spin fa-3x fa-fw"></i>
 
                             <h4>
-                                <a href="single-service.html">Modern design</a>
+                                <a href="single-service.html">3D cartesian Coordination Layer </a>
                             </h4>
 
                             <br class="clear">
 
-                            <p>Lorem ipsum dolor sit amet, omis unde quam elit. Curabitur posuere arcu quis justo lactus,
-                                eu mollis nisi rhoncus.</p>
+                            <p> 3D cartesian layer is a new way adding a blockchain layer of top of a map inwhcih smartcontrcats and tokens can be placed in a specific coordinate</p>
+
+                            <a class="btn" href="single-service.html">Find out more</a>
+    
+                        </div><!-- end .icon-box-5 -->
+
+                    </div><!-- end .span4 -->
+                    <div class="span4">
+
+                        <div class="icon-box-5">
+
+                            <i class="fa fa-balance-scale fa-fw"></i>
+
+                            <h4>
+                                <a href="single-service.html">Consensus layer</a>
+                            </h4>
+
+                            <br class="clear">
+
+                            <p> The consensus layer consisst of verfication and indentity layer to allow 
+                            	
+								
+                            </p>
 
                             <a class="btn" href="single-service.html">Find out more</a>
 
@@ -124,27 +62,6 @@
                                 volutpat erat volutpat.</p>
 
                             <a class="btn" href="single-service.html">Find out more</a>
-
-                        </div><!-- end .icon-box-5 -->
-
-                    </div><!-- end .span4 -->
-                    <div class="span4">
-
-                        <div class="icon-box-5">
-
-                            <i class="ifc-business"></i>
-
-                            <h4>
-                                <a href="single-service.html">Multi-purpose</a>
-                            </h4>
-
-                            <br class="clear">
-
-                            <p>Nullam viverra risus eu laoreet tincidunt. Curabitur iaculis ac cumsan elit. Integer id quam at magna
-                                euismod tempor vitae at.</p>
-
-                            <a class="btn" href="single-service.html">Find out more</a>
-
                         </div><!-- end .icon-box-5 -->
 
                     </div><!-- end .span4 -->
@@ -155,6 +72,285 @@
 
     </div><!-- end .fullwidth-section -->
 </section>
+
+<section id="bxwala">
+   <div class="container">
+        <div class="row">
+            <div class="span6">
+
+                <div class="images-slider-2">
+
+                    <ul class="slides">
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                        </li>
+                    </ul>
+
+                    
+
+                </div><!-- end .images-slider-2 -->				
+				
+
+            </div><!-- end .span6 -->
+            <div class="span6">
+				
+
+                <div class="headline">
+
+                    <h3>Proof of Location Token: SPACETIME</h3>
+
+                    <h6>Token </h6>
+
+                </div><!-- end .headline -->
+
+                <p>The spacetime network is protocol  .</p>
+
+                <p> Spacetime is a Geospatial solution that is backed by our tokens. 
+                	
+                </p>
+
+                <a class="btn" href="#">Find out more</a>
+
+
+
+
+
+
+            </div><!-- end .span6 -->
+        </div><!-- end .row -->
+    </div><!-- end .container -->
+
+    <div class="container">
+         <div class="row">
+            
+            <div class="span6">
+                         <video id="bgvid" style="  position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    width: 100%;
+                                                    height: 100%;
+                                                    margin-bottom:20px;" playsinline autoplay muted loop>
+                            <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+                          <source src="content/backgrounds/smartcontractlayer.webm" type="video/webm">
+                          <source src="content/backgrounds/smartcontractlayer.mp4" type="video/mp4">
+                        </video>				
+            </div>
+
+             <div class="span6">
+
+                 <div class="headline">
+
+                     <h3>REAL-TIME LAYER </h3>
+
+                     <h6> </h6>
+
+                 </div><!-- end .headline -->
+
+                 <p>SpaceTime realtime-layer has two functions one is to analyse data and the other is to exchange data in the Spacetime Marketplace with low fee transactions.</p>
+
+                 <p>  
+                	
+                 </p>
+
+                 <a class="btn" href="#">Find out more</a>
+
+             </div><!-- end .span6 -->
+         </div><!-- end .row -->
+     </div><!-- end .container -->
+
+     <div class="container">
+          <div class="row">
+              <div class="span6">
+
+                  <div class="images-slider-2">
+
+                      <ul class="slides">
+                          <li>
+                              <img src="content/index/slider-2/555x360-1.jpg" alt="">
+                          </li>
+                          <li>
+                              <img src="content/index/slider-2/555x360-2.jpg" alt="">
+                          </li>
+                          <li>
+                              <img src="content/index/slider-2/555x360-3.jpg" alt="">
+                          </li>
+                          <li>
+                              <img src="content/index/slider-2/555x360-4.jpg" alt="">
+                          </li>
+                          <li>
+                              <img src="content/index/slider-2/555x360-5.jpg" alt="">
+                          </li>
+                          <li>
+                              <img src="content/index/slider-2/555x360-6.jpg" alt="">
+                          </li>
+                      </ul>
+
+                    
+
+                  </div><!-- end .images-slider-2 -->				
+				
+
+              </div><!-- end .span6 -->
+              <div class="span6">
+
+                  <div class="headline">
+
+                      <h3>SpaceTime Network</h3>
+
+                      <h6>Protocol </h6>
+
+                  </div><!-- end .headline -->
+
+                  <p>The spacetime network is protocol  .</p>
+
+                  <p> Spacetime is a Geospatial solution that is backed by our tokens. 
+                	
+                  </p>
+
+                  <a class="btn" href="#">Find out more</a>
+
+
+
+
+
+
+              </div><!-- end .span6 -->
+          </div><!-- end .row -->
+      </div><!-- end .container -->
+
+</section>
+
+<section id="featureswala">
+
+    <div class="container">
+        <div class="row">
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="ifc-business"></i>
+
+                    <h4>
+                        <a href="single-service.html">Asset Management</a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p>Asset management solutions for water, oil and gas, energy providers can use Spacetime protocol to optimise location intelligence in an innovative way, .</p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="fa fa-braille fa-spin fa-3x fa-fw"></i>
+
+                    <h4>
+                        <a href="single-service.html">internet of things</a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p>The internet of things can negotiate, confirm transactions,       </p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="ifc-circuit fa-spin fa-3x fa-fw"></i>
+
+                    <h4>
+                        <a href="single-service.html">BIM(Building Information Modelling)</a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p>A building can negotiate contracts,check and sign contracts, certifications and warranties.SpaceTime Blockchain layer can be used for governance, management, legal ,liabilities and payment issuance.</p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+        </div><!-- end .row -->
+    </div><!-- end .container -->
+
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="ifc-cable_release"></i>
+
+                    <h4>
+                        <a href="single-service.html">Drones and UAVs</a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p>unmanned aerial vehicles or Drones rely on location intelligence to asses and respond to their environment ,SpaceTime protocol can go beyond that to enable them to negotiate   ,exchange and pay for lanes, data and other use-cases.</p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="fa fa-car"></i>
+
+                    <h4>
+                        <a href="single-service.html">Autonomous Machines </a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p> SpaceTime Protocol can be used for Autonomous machines to enable transactions and Real-time data analysis </p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+            <div class="span4">
+
+                <div class="icon-box-3">
+
+                    <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+
+                    <h4>
+                        <a href="single-service.html"> Supply Chain</a>
+                    </h4>
+
+                    <br class="clear">
+
+                    <p>SpaceTime protocol can be used to facilitate data and payment trasancations between different stakeholders. In the supply chain. As well as helping to make decsions by using our geospatial analytics in real-time.Use-case in Smart-warehouses, customs, logistics</p>
+
+                </div><!-- end .icon-box-3 -->
+
+            </div><!-- end .span4 -->
+        </div><!-- end .row -->
+    </div><!-- end .container -->
+
 
 <section id="portfoliowala">
     <div class="container">
@@ -168,20 +364,18 @@
                             <a class="active" href="#" data-filter="*">All</a>
                         </li>
                         <li>
-                            <a href="#" data-filter=".term-1">Mochups</a>
+                            <a href="#" data-filter=".term-1">Team</a>
                         </li>
                         <li>
-                            <a href="#" data-filter=".term-2">Webdesign</a>
+                            <a href="#" data-filter=".term-2">Advisors</a>
                         </li>
                         <li>
-                            <a href="#" data-filter=".term-3">Print</a>
+                            <a href="#" data-filter=".term-3">Contributors</a>
                         </li>
-                        <li>
-                            <a href="#" data-filter=".term-4">Logo Design</a>
-                        </li>
+                        
                     </ul>
 
-                </div><!-- end .portfolio-filter -->
+                </div><!-- end.portfolio-filter -->
 
             </div><!-- end .span12 -->
         </div><!-- end .row -->
@@ -426,12 +620,11 @@
 
                                         <blockquote>
 
-                                            <p>Fusce sed urna maximus, posuere purus eget, mollis justo. Lorem ipsum dolor sit amet, consectetur
-                                                adipiscing elit. Curabitur ultricies laoreet ipsum, et dapibus nisi varius non amet eros accumsan.</p>
+                                            <p> One of the the most innovative projects that I have seen.  </p>
 
                                         </blockquote>
 
-                                        <h4>John M. Martin</h4>
+                                        <h4> Solomon </h4>
 
                                     </div><!-- end .testimonial -->
 
@@ -457,9 +650,9 @@
 
                 <div class="headline">
 
-                    <h3>Our company profile</h3>
+                    <h3>Tokens</h3>
 
-                    <h6>Lorem ipsum dolor sit amet</h6>
+                    <h6> </h6>
 
                 </div><!-- end .headline -->
 
@@ -545,184 +738,7 @@
     </div><!-- end .fullwidth-section-content -->
 </section>
 
-<section id="featureswala">
 
-    <div class="container">
-        <div class="row">
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-fantasy"></i>
-
-                    <h4>
-                        <a href="single-service.html">Modern design</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Lorem ipsum dolor sit amet, omus inde quam elit. Curabitur posuere arcu quis justo lactus,
-                        eu mollis nisi rhoncus.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-smartphone_tablet"></i>
-
-                    <h4>
-                        <a href="single-service.html">Responsive Design</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Nullam viverra risus eu laoreet tincidunt. Curabitur iaculis accumsan elit. Integer id quam at magna
-                        euismod tempor vitae. </p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-business"></i>
-
-                    <h4>
-                        <a href="single-service.html">Multi-purpose</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Phasellus egestas turpis id elit mattis, sed facilisis enim cursus. Vivamus in euismod nunc
-                        dui lacus dignissim ac.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-        </div><!-- end .row -->
-    </div><!-- end .container -->
-
-    <div class="container">
-        <div class="row">
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-wacom_tablet"></i>
-
-                    <h4>
-                        <a href="single-service.html">Retina ready</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Maecenas ac sem nec lectus scelerisque aliquet. In non enim tempus dui lacinia scelerisque. Fusce
-                        faucibus odio.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-joystick"></i>
-
-                    <h4>
-                        <a href="single-service.html">Animations</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Aenean ac aliquam diam, non eleifend diam. Integer tristique molestie mi, eleifend fermentum justo
-                        maximus nec.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-circuit"></i>
-
-                    <h4>
-                        <a href="single-service.html">Psd sources</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Quisque sit amet sagittis ipsum, eget luctus sem. Suspendisse at convallis velit. In accumsan magna
-                        ac nibh porttitor.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-        </div><!-- end .row -->
-    </div><!-- end .container -->
-
-    <div class="container">
-        <div class="row">
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-cable_release"></i>
-
-                    <h4>
-                        <a href="single-service.html">Free updates</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Fusce euismod felis augue, nec sagittis mi suscipit ut. Suspen disse id posuere urna. Vivamus
-                        posuere purus eros sit amet.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-biotech"></i>
-
-                    <h4>
-                        <a href="single-service.html">Parallax</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Duis dignissim nulla at tortor dictum, id vehicula nisl tristique. Aenean rhoncus enim justo,
-                        id dignissim dolor quis.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-            <div class="span4">
-
-                <div class="icon-box-3">
-
-                    <i class="ifc-settings"></i>
-
-                    <h4>
-                        <a href="single-service.html">Support 24/7</a>
-                    </h4>
-
-                    <br class="clear">
-
-                    <p>Etiam nibh tortor, placerat in est id, fringilla gravida nunc. Cras porta sit amet diam ut lacinia
-                        vel tincidunt eros varius.</p>
-
-                </div><!-- end .icon-box-3 -->
-
-            </div><!-- end .span4 -->
-        </div><!-- end .row -->
-    </div><!-- end .container -->
 
     <div class="fullwidth-section custom-color-selected parallax" id="bg-10">
 
@@ -737,8 +753,8 @@
                         <div class="milestone">
 
                             <div class="milestone-content">
-                                <span class="milestone-value" data-stop="637" data-speed="2000"></span>
-                                <div class="milestone-description">Clients</div>
+                                <span class="milestone-value" data-stop="500000" data-speed="2000"></span>
+                                <div class="milestone-description">Pre-sale</div>
                             </div>
 
                         </div><!-- end .milestone -->
@@ -807,9 +823,7 @@
         <div class="row">
             <div class="offset3 span6">
 
-                <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elit dolor, dictum sed massa a,
-                    iaculis eleifend sapien. Curabitur scelerisque semper velit. Duis ornare nunc in sapien consectetur
-                    aliquam vel ut ligula. Pellentesque felis ante, vehicula sed maximus id, iaculis id leo.</p>
+                <p class="text-center"> Keep up to date</p>
 
             </div><!-- end .span6 -->
         </div><!-- end .row -->
